@@ -74,6 +74,9 @@ This dashboard helps stakeholders:
 📷 Dashboard Preview
 ![image alt](https://github.com/Pronobcb/Finance-Analysis-PowerBI/blob/main/Dashboard%20-%20Finance%20Analysis.png)
 ---
+## Project Live View
+https://app.powerbi.com/view?r=eyJrIjoiYmM2ZjBiODAtYmVkYi00NTlkLWJlNGMtN2FkNzJiNzRhNGU4IiwidCI6IjIwYjliYTY2LWExMWQtNDkzOC1iNzk0LWYyZTg1YjEzODgxOCIsImMiOjEwfQ%3D%3D
+---
 ## 👨‍💻 Author
 PRONOB CHAKROBORTY
 🎓 Statistics Graduate

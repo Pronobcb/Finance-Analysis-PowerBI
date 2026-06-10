@@ -72,8 +72,7 @@ This dashboard helps stakeholders:
 - Support data-driven decision making
 --- 
 📷 Dashboard Preview
-- <a href="https://github.com/Pronobcb/Finance-Analysis-PowerBI/blob/main/Dashboard%20-%20Finance%20Analysis.png"> Dashboard View </a>
-<img width="1204" height="666" alt="Healthcare Data Analysis Dashboard" src="https://github.com/user-attachments/assets/a17d009f-3a66-4828-b3e2-f67621d687ca" />
+![image alt](https://github.com/Pronobcb/Finance-Analysis-PowerBI/blob/main/Dashboard%20-%20Finance%20Analysis.png)
 ---
 ## 👨‍💻 Author
 PRONOB CHAKROBORTY
